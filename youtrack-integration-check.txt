@@ -1,0 +1,3 @@
+project=AMO
+issue=AMO-1
+purpose=github-youtrack-integration-check
